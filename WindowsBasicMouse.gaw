@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gamewave version="1.5.6" os="windows">
+  <leap>
+    <game name="Operating System Control with GameWAVE" fingersForOpen="2"
+          leftDefaultToTriggerMode="0" leftTrackFrontMostFinger="0" leftXaxisMoveLikeGamepad="0"
+          leftXaxisSpeed="50" leftXaxisRest="15" leftYaxisMoveLikeGamepad="0"
+          leftYaxisSpeed="50" leftYaxisRest="15" leftZaxisMoveLikeGamepad="1"
+          leftZaxisSpeed="50" leftZaxisRest="15" rightDefaultToTriggerMode="0"
+          rightTrackFrontMostFinger="0" rightXaxisMoveLikeGamepad="0" rightXaxisSpeed="40"
+          rightXaxisRest="50" rightYaxisMoveLikeGamepad="0" rightYaxisSpeed="40"
+          rightYaxisRest="50" rightZaxisMoveLikeGamepad="1" rightZaxisSpeed="50"
+          rightZaxisRest="15" leftTriggerInclinePitchSpeed="25" leftTriggerInclinePitchRest="60"
+          leftTriggerInclineRollSpeed="50" leftTriggerInclineRollRest="60"
+          leftSteeringInclinePitchSpeed="50" leftSteeringInclinePitchRest="60"
+          leftSteeringInclineRollSpeed="50" leftSteeringInclineRollRest="60"
+          rightTriggerInclinePitchSpeed="50" rightTriggerInclinePitchRest="60"
+          rightTriggerInclineRollSpeed="50" rightTriggerInclineRollRest="60"
+          rightSteeringInclinePitchSpeed="50" rightSteeringInclinePitchRest="30"
+          rightSteeringInclineRollSpeed="50" rightSteeringInclineRollRest="50"/>
+    <gestures>
+      <gesture type="785" action="16" keyCode="-1" modifierFlags="0" nativeCode="0"
+               path="" rawText="Scroll Wheel Down" description=""/>
+      <gesture type="786" action="11" keyCode="-1" modifierFlags="0" nativeCode="0"
+               path="" rawText="Mouse Move Up" description=""/>
+      <gesture type="801" action="15" keyCode="-1" modifierFlags="0" nativeCode="0"
+               path="" rawText="Scroll Wheel Up" description=""/>
+      <gesture type="802" action="12" keyCode="-1" modifierFlags="0" nativeCode="0"
+               path="" rawText="Mouse Move Down" description=""/>
+      <gesture type="817" action="18" keyCode="-1" modifierFlags="0" nativeCode="0"
+               path="" rawText="Scroll Wheel Right" description=""/>
+      <gesture type="818" action="13" keyCode="-1" modifierFlags="0" nativeCode="0"
+               path="" rawText="Mouse Move Left" description=""/>
+      <gesture type="833" action="17" keyCode="-1" modifierFlags="0" nativeCode="0"
+               path="" rawText="Scroll Wheel Left" description=""/>
+      <gesture type="834" action="14" keyCode="-1" modifierFlags="0" nativeCode="0"
+               path="" rawText="Mouse Move Right" description=""/>
+      <gesture type="849" action="0" keyCode="-1" modifierFlags="0" nativeCode="0"
+               path="" rawText="" description=""/>
+      <gesture type="850" action="0" keyCode="-1" modifierFlags="0" nativeCode="0"
+               path="" rawText="" description=""/>
+      <gesture type="865" action="0" keyCode="-1" modifierFlags="0" nativeCode="0"
+               path="" rawText="" description=""/>
+      <gesture type="866" action="0" keyCode="-1" modifierFlags="0" nativeCode="0"
+               path="" rawText="" description=""/>
+      <gesture type="2305" action="0" keyCode="-1" modifierFlags="0" nativeCode="0"
+               path="" rawText="" description=""/>
+      <gesture type="2306" action="9" keyCode="-1" modifierFlags="0" nativeCode="0"
+               path="" rawText="Mouse Click Right" description=""/>
+      <gesture type="2817" action="19" keyCode="-1" modifierFlags="0" nativeCode="0"
+               path="" rawText="Reposition" description=""/>
+      <gesture type="2818" action="9" keyCode="-1" modifierFlags="0" nativeCode="0"
+               path="" rawText="Mouse Click Right" description=""/>
+      <gesture type="5905" action="31" keyCode="-1" modifierFlags="0" nativeCode="0"
+               path="" rawText="Sleep/Wake" description=""/>
+      <gesture type="5906" action="0" keyCode="-1" modifierFlags="0" nativeCode="0"
+               path="" rawText="" description=""/>
+      <gesture type="5921" action="0" keyCode="-1" modifierFlags="0" nativeCode="0"
+               path="" rawText="" description=""/>
+      <gesture type="5922" action="0" keyCode="-1" modifierFlags="0" nativeCode="0"
+               path="" rawText="" description=""/>
+      <gesture type="5937" action="1" keyCode="65569" modifierFlags="2" nativeCode="21561345"
+               path="" rawText="control + page up" description=""/>
+      <gesture type="5938" action="31" keyCode="-1" modifierFlags="0" nativeCode="0"
+               path="" rawText="Sleep/Wake" description=""/>
+      <gesture type="5953" action="1" keyCode="65570" modifierFlags="2" nativeCode="22085633"
+               path="" rawText="control + page down" description=""/>
+      <gesture type="5954" action="31" keyCode="-1" modifierFlags="0" nativeCode="0"
+               path="" rawText="Sleep/Wake" description=""/>
+      <gesture type="6193" action="29" keyCode="12" modifierFlags="0" nativeCode="0"
+               path="" rawText="Media Previous" description=""/>
+      <gesture type="6194" action="25" keyCode="-1" modifierFlags="0" nativeCode="0"
+               path="" rawText="Volume Quieter" description=""/>
+      <gesture type="6209" action="29" keyCode="11" modifierFlags="0" nativeCode="0"
+               path="" rawText="Media Next" description=""/>
+      <gesture type="6210" action="26" keyCode="-1" modifierFlags="0" nativeCode="0"
+               path="" rawText="Volume Louder" description=""/>
+      <gesture type="10001" action="1" keyCode="87" modifierFlags="2" nativeCode="1114113"
+               path="" rawText="control + W" description=""/>
+      <gesture type="10002" action="0" keyCode="-1" modifierFlags="0" nativeCode="0"
+               path="" rawText="" description=""/>
+      <gesture type="10017" action="1" keyCode="84" modifierFlags="3" nativeCode="1310721"
+               path="" rawText="control + shift + T" description=""/>
+      <gesture type="10018" action="0" keyCode="-1" modifierFlags="0" nativeCode="0"
+               path="" rawText="" description=""/>
+      <gesture type="10033" action="29" keyCode="1" modifierFlags="0" nativeCode="0"
+               path="" rawText="Browser Backward" description=""/>
+      <gesture type="10034" action="29" keyCode="1" modifierFlags="0" nativeCode="0"
+               path="" rawText="Browser Backward" description=""/>
+      <gesture type="10049" action="29" keyCode="2" modifierFlags="0" nativeCode="0"
+               path="" rawText="Browser Forward" description=""/>
+      <gesture type="10050" action="29" keyCode="2" modifierFlags="0" nativeCode="0"
+               path="" rawText="Browser Forward" description=""/>
+      <gesture type="10289" action="0" keyCode="-1" modifierFlags="0" nativeCode="0"
+               path="" rawText="" description=""/>
+      <gesture type="10290" action="0" keyCode="-1" modifierFlags="0" nativeCode="0"
+               path="" rawText="" description=""/>
+      <gesture type="10305" action="0" keyCode="-1" modifierFlags="0" nativeCode="0"
+               path="" rawText="" description=""/>
+      <gesture type="10306" action="0" keyCode="-1" modifierFlags="0" nativeCode="0"
+               path="" rawText="" description=""/>
+      <gesture type="14097" action="31" keyCode="-1" modifierFlags="0" nativeCode="0"
+               path="" rawText="Sleep/Wake" description=""/>
+      <gesture type="14098" action="1" keyCode="9" modifierFlags="8" nativeCode="983041"
+               path="" rawText="windows + tab" description=""/>
+      <gesture type="14113" action="28" keyCode="-1" modifierFlags="0" nativeCode="0"
+               path="" rawText="Switch Mode" description=""/>
+      <gesture type="14114" action="28" keyCode="-1" modifierFlags="0" nativeCode="0"
+               path="" rawText="Switch Mode" description=""/>
+      <gesture type="14129" action="8" keyCode="-1" modifierFlags="0" nativeCode="0"
+               path="" rawText="Mouse Click Center" description=""/>
+      <gesture type="14130" action="1" keyCode="67" modifierFlags="8" nativeCode="3014657"
+               path="" rawText="windows + C" description=""/>
+      <gesture type="14145" action="9" keyCode="-1" modifierFlags="0" nativeCode="0"
+               path="" rawText="Mouse Click Right" description=""/>
+      <gesture type="14146" action="27" keyCode="-1" modifierFlags="8" nativeCode="0"
+               path="" rawText="windows" description=""/>
+      <gesture type="14385" action="0" keyCode="-1" modifierFlags="0" nativeCode="0"
+               path="" rawText="" description=""/>
+      <gesture type="14386" action="0" keyCode="-1" modifierFlags="0" nativeCode="0"
+               path="" rawText="" description=""/>
+      <gesture type="14401" action="0" keyCode="-1" modifierFlags="0" nativeCode="0"
+               path="" rawText="" description=""/>
+      <gesture type="14402" action="0" keyCode="-1" modifierFlags="0" nativeCode="0"
+               path="" rawText="" description=""/>
+      <gesture type="66577" action="0" keyCode="-1" modifierFlags="0" nativeCode="0"
+               path="" rawText="" description=""/>
+      <gesture type="66578" action="0" keyCode="-1" modifierFlags="0" nativeCode="0"
+               path="" rawText="" description=""/>
+      <gesture type="66593" action="0" keyCode="-1" modifierFlags="0" nativeCode="0"
+               path="" rawText="" description=""/>
+      <gesture type="66594" action="0" keyCode="-1" modifierFlags="0" nativeCode="0"
+               path="" rawText="" description=""/>
+      <gesture type="66849" action="0" keyCode="-1" modifierFlags="0" nativeCode="0"
+               path="" rawText="" description=""/>
+      <gesture type="66850" action="0" keyCode="-1" modifierFlags="0" nativeCode="0"
+               path="" rawText="" description=""/>
+      <gesture type="66865" action="15" keyCode="-1" modifierFlags="0" nativeCode="0"
+               path="" rawText="Scroll Wheel Up" description=""/>
+      <gesture type="66866" action="0" keyCode="-1" modifierFlags="0" nativeCode="0"
+               path="" rawText="" description=""/>
+      <gesture type="66881" action="0" keyCode="-1" modifierFlags="0" nativeCode="0"
+               path="" rawText="" description=""/>
+      <gesture type="66882" action="0" keyCode="-1" modifierFlags="0" nativeCode="0"
+               path="" rawText="" description=""/>
+      <gesture type="66897" action="16" keyCode="-1" modifierFlags="0" nativeCode="0"
+               path="" rawText="Scroll Wheel Down" description=""/>
+      <gesture type="66898" action="0" keyCode="-1" modifierFlags="0" nativeCode="0"
+               path="" rawText="" description=""/>
+      <gesture type="68097" action="0" keyCode="-1" modifierFlags="0" nativeCode="0"
+               path="" rawText="" description=""/>
+      <gesture type="68098" action="0" keyCode="-1" modifierFlags="0" nativeCode="0"
+               path="" rawText="" description=""/>
+      <gesture type="197649" action="0" keyCode="-1" modifierFlags="0" nativeCode="0"
+               path="" rawText="" description=""/>
+      <gesture type="197650" action="0" keyCode="-1" modifierFlags="0" nativeCode="0"
+               path="" rawText="" description=""/>
+      <gesture type="197665" action="0" keyCode="-1" modifierFlags="0" nativeCode="0"
+               path="" rawText="" description=""/>
+      <gesture type="197666" action="0" keyCode="-1" modifierFlags="0" nativeCode="0"
+               path="" rawText="" description=""/>
+      <gesture type="197905" action="0" keyCode="-1" modifierFlags="0" nativeCode="0"
+               path="" rawText="" description=""/>
+      <gesture type="197906" action="0" keyCode="-1" modifierFlags="0" nativeCode="0"
+               path="" rawText="" description=""/>
+      <gesture type="197921" action="31" keyCode="-1" modifierFlags="0" nativeCode="0"
+               path="" rawText="Sleep/Wake" description=""/>
+      <gesture type="197922" action="31" keyCode="-1" modifierFlags="0" nativeCode="0"
+               path="" rawText="Sleep/Wake" description=""/>
+      <gesture type="197937" action="31" keyCode="-1" modifierFlags="0" nativeCode="0"
+               path="" rawText="Sleep/Wake" description=""/>
+      <gesture type="197938" action="0" keyCode="-1" modifierFlags="0" nativeCode="0"
+               path="" rawText="" description=""/>
+      <gesture type="197953" action="19" keyCode="-1" modifierFlags="0" nativeCode="0"
+               path="" rawText="Reposition" description=""/>
+      <gesture type="197954" action="19" keyCode="-1" modifierFlags="0" nativeCode="0"
+               path="" rawText="Reposition" description=""/>
+      <gesture type="197969" action="19" keyCode="-1" modifierFlags="0" nativeCode="0"
+               path="" rawText="Reposition" description=""/>
+      <gesture type="197970" action="0" keyCode="-1" modifierFlags="0" nativeCode="0"
+               path="" rawText="" description=""/>
+      <gesture type="199169" action="0" keyCode="-1" modifierFlags="0" nativeCode="0"
+               path="" rawText="" description=""/>
+      <gesture type="199170" action="0" keyCode="-1" modifierFlags="0" nativeCode="0"
+               path="" rawText="" description=""/>
+    </gestures>
+  </leap>
+</gamewave>
